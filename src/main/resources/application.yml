@@ -1,0 +1,23 @@
+application:
+  config:
+    example-list:
+      - one
+      - two
+      - three
+    example-map:
+      one: value1
+      two: value2
+      three: value3
+    complex-type:
+      one:
+        id: 1
+        value: value1
+      two:
+        id: 2
+        value: Meu Teste
+    complex-list:
+      - id: 1
+        value: Complex 1
+      - id: 2
+        value: Complex 2
+
